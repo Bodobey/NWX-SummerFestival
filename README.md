@@ -1,5 +1,6 @@
-# Application Programme Codeurs En Seine
+# Application du Programme du NWX Summer Festival
 
+Fork de l'application [Codeur En Seine](https://github.com/CodeursEnSeine/CodeursEnSeine-app)
 ## Available Scripts
 
 In the project directory, you can run:
